@@ -1,4 +1,4 @@
-# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Todos and More
+# React Admin Dashboard App With Theming, Tables, Charts, Calendar, Todos and More
 ## ~CSS framework like Tailwind CSS
 ## ~framework ReactJs (Functional Components - Hooks)
 ## ~libraries like Syncfusion 
